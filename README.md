@@ -1,3 +1,3 @@
 # hello-world
 This is a test.
-Now, I add some new things.
+I add some new things.
